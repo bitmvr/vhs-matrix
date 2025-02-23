@@ -57,7 +57,7 @@
 
 Output vhs-example--matrix.gif
 
-Set Shell "bash"
+Set Shell "zsh"
 Set FontSize 32
 Set BorderRadius 50
 Set Width 1200
